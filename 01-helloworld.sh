@@ -1,2 +1,3 @@
 #shell script
-this is 01-hello world file
+
+echo "i am learning aws devops"
